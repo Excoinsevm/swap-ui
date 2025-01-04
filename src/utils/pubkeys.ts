@@ -1,7 +1,7 @@
 import { PublicKey } from "@solana/web3.js";
 
 export const DEX_PID = new PublicKey(
-  "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+  "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
 );
 
 export const SRM_MINT = new PublicKey(
